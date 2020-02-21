@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCM6810
+D 128 x 8 STATIC RAM, 450ns
+F http://pdf.datasheetcatalog.com/datasheets2/22/227345_1.pdf
+$ENDCMP
+#
+$CMP MCM6810_Driver
+D 128 x 8 STATIC RAM, 450ns Mainboard Driver
+F http://pdf.datasheetcatalog.com/datasheets2/22/227345_1.pdf
+$ENDCMP
+#
+#End Doc Library
